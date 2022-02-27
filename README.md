@@ -1,4 +1,4 @@
-# uoguelph-info
+# Guelph
 
 ## General
 
