@@ -4,6 +4,10 @@
 
 ## Graduate Student
 
-## [Grad Student clubs/associations](/GSA.md)
-[Graduate Student Assication (GSA)](https://www.uoguelph.ca/gsa/){:target="_blank"}
+## [Graduadate Student Association ](/GSA.md)
+[Graduate Student Association (GSA) - Official Page](https://www.uoguelph.ca/gsa/){:target="_blank"}
+
+[Grad Student clubs/associations across campus](/gradstudents.md)
+
+
 
